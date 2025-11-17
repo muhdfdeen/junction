@@ -19,7 +19,7 @@ jobs:
           distribution: temurin
           cache: gradle
       - name: Build plugin
-        run: ./gradlew build
+        run: bash ./gradlew build
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
