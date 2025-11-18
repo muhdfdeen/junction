@@ -2,7 +2,7 @@
 
 A lightweight Minecraft plugin that automatically assigns Bedrock Edition players to a permission group using Floodgate with LuckPerms or Vault support.
 
-> ![NOTE]
+> [!NOTE]
 > Inspired by [BedrockPlayerManager](https://github.com/ofunny/BedrockPlayerManager). Junction is a modernized alternative and also serves as my first plugin project to improve my Java skills.
 
 ## Configuration
